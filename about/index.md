@@ -12,6 +12,12 @@ image:
 
 현재 [마이리얼트립](https://www.myrealtrip.com) 개발자겸 이사로 재직중.
 
+스택오버플로에 이제 막 재미붙이는 중  
+<a href="http://stackoverflow.com/users/1306187/jaehyun-shin">
+<img src="http://stackoverflow.com/users/flair/1306187.png" width="208" height="58" alt="profile for Jaehyun Shin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jaehyun Shin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
+
 ## Experience
 
 * [마이리얼트립](https://www.myrealtrip.com) 서버 및 API 개발, 프론트엔드 개발 (2013-)
@@ -22,12 +28,14 @@ image:
   - 2011 KT 벤쳐어워드 클라우드 부문 우수상 수상
 
 ## Opensource
-* 
+* status-manager([rubygems](https://rubygems.org/gems/status-manager), [source](https://github.com/keepcosmos/status-manager))
+* Contribution
+	* [rails/rails](http://contributors.rubyonrails.org/contributors/jaehyun-shin/commits)
+	* [rails/spring](https://github.com/rails/spring/pulls?q=is%3Apr+is%3Amerged+author%3Akeepcosmos)
+	* [discourse/discourse](https://github.com/discourse/discourse/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+author%3Akeepcosmos+)
 
 ## Personal Project
 <!-- * [와프](https://www.whatisyourproblem.kr) -->
 
 ## Education & Certification
-* 
-
-<a markdown="0" href="mailto:keepcosmos@gmail.com" class="btn">연락해보기</a>
+* [The Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WK66NMAX97AL) (Coursera, Johns Hopkins)
