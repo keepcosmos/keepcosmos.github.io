@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Keepcosmos
+locale:           ko_KR
 url:
 
 
@@ -9,7 +9,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rouge
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
@@ -39,23 +39,25 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
+  name: 신재현
+  avatar: profile-image.jpg
+  bio: |
+    저는 ...<a href='/about' style='color: #0288D1'>더보기</a>
+  email: keepcosmos@gmail.com
+  disqus-shortname: keepcosmos
   twitter: #username
   facebook: #username
   google:
     plus: #username
     analytics:
-    verify:
+    universal-analytics: UA-59789884-1 
+    verify: Aw0AEPpyMWNhqsjBfYQWEXD76_tYYamQxaRFJiH5KK0
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: keepcosmos
+  stackoverflow: 1306187/jaehyun-shin
+  linkedin: jaehyun-shin-22429640
   xing: #username
   instagram: #username
   lastfm: #username

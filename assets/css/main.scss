@@ -27,3 +27,28 @@ sitemap: false
 @import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
 @import "print";
+
+// Custom
+
+p+p {
+  text-indent: 0rem;
+  margin-top: 0rem;
+}
+
+.headline-wrap h1{
+  line-height: 2.6rem;
+}
+
+.article-wrap p {
+  font-size: 1.00rem;
+  line-height: 1.6rem;
+  a {
+    color: #0288D1;
+    text-decoration: none;
+  }
+  a.footnote {
+    color: #EF6C00;
+    font-style: italic;
+  }
+}
+		
