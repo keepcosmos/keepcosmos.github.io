@@ -29,6 +29,7 @@ sitemap: false
 @import "print";
 
 // Custom
+$my-link-color: #0288D1;
 
 p+p {
   text-indent: 0rem;
@@ -39,16 +40,21 @@ p+p {
   line-height: 2.6rem;
 }
 
-.article-wrap p {
-  font-size: 1.00rem;
-  line-height: 1.6rem;
+.article-wrap{
   a {
-    color: #0288D1;
-    text-decoration: none;
+    color: $my-link-color;
+    text-decoration: none !important;
   }
-  a.footnote {
-    color: #EF6C00;
-    font-style: italic;
+  .social-share a{
+    color: #fff;
+  }
+  p {
+    font-size: 1.00rem;
+    line-height: 1.6rem;
+    a.footnote {
+      color: #EF6C00;
+      font-style: italic;
+    }
   }
 }
 		
