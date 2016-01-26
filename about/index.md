@@ -3,7 +3,7 @@ layout: page
 title: About Me
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
   feature: about-bg-1.jpg
   credit: Jaehyun Shin
@@ -29,6 +29,8 @@ image:
 
 ## Opensource
 * status-manager([rubygems](https://rubygems.org/gems/status-manager), [source](https://github.com/keepcosmos/status-manager))
+* ununiga([rubygems](https://rubygems.org/gems/ununiga), [source](https://github.com/keepcosmos/ununiga))
+	* 은는이가는 한글의 자소를 분리하고 적절한 조사를 찾아주는 역할을 합니다. I18n의 Backend 모듈도 제공합니다.
 * Contribution
 	* [rails/rails](http://contributors.rubyonrails.org/contributors/jaehyun-shin/commits)
 	* [rails/spring](https://github.com/rails/spring/pulls?q=is%3Apr+is%3Amerged+author%3Akeepcosmos)

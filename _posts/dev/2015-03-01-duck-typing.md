@@ -5,6 +5,7 @@ title: 저 새를 오리라고 부르겠다. 덕 타이핑!
 category: "dev"
 description: "Duck Typing에 대한 생각"
 modified: 2015-03-01
+comments: true
 tags: [Duck typing, Dynamic type, 오리타입, 동적타입]
 
 ---

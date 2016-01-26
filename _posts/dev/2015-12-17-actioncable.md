@@ -5,6 +5,7 @@ title: Realtime Web을 위한 ActionCable 소개
 category: "dev"
 description: ""
 modified: 2015-12-19
+comments: true
 tags: [actioncable, realtime web, rails]
 
 ---
