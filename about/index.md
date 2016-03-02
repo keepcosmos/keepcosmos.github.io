@@ -27,11 +27,17 @@ image:
   - 인터넷진흥원 WBCP 지원
   - 2011 KT 벤쳐어워드 클라우드 부문 우수상 수상
 
+
 ## Opensource
 * status-manager([rubygems](https://rubygems.org/gems/status-manager), [source](https://github.com/keepcosmos/status-manager))
 * ununiga([rubygems](https://rubygems.org/gems/ununiga), [source](https://github.com/keepcosmos/ununiga))
-	* 은는이가는 한글의 자소를 분리하고 적절한 조사를 찾아주는 역할을 합니다. I18n의 Backend 모듈도 제공합니다.
-* Contribution
+  * 은는이가는 한글의 자소를 분리하고 적절한 조사를 찾아주는 역할을 합니다. I18n의 Backend 모듈도 제공합니다.
+* twitter-korean-text-ruby([rubygems](https://rubygems.org/gems/twitter-korean-text-ruby), [source](https://github.com/keepcosmos/twitter-korean-text-ruby))
+  * 트위터에서 제공하는 한글 형태소 분석기인 twitter-korean-text(Scala)를 Ruby에서 사용가능하도록 Wrapping 하였습니다.
+  
+  
+  
+* **Contribution**
 	* [rails/rails](http://contributors.rubyonrails.org/contributors/jaehyun-shin/commits)
 	* [rails/spring](https://github.com/rails/spring/pulls?q=is%3Apr+is%3Amerged+author%3Akeepcosmos)
 	* [discourse/discourse](https://github.com/discourse/discourse/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+author%3Akeepcosmos+)
