@@ -29,14 +29,16 @@ image:
 
 
 ## Opensource
+* readability([hex](https://hex.pm/packages/readability), [source](https://github.com/keepcosmos/readability))
+  * 웹페이지에서 의미있는 아티클 정보를 추출하는 Elixir 패키지
 * status-manager([rubygems](https://rubygems.org/gems/status-manager), [source](https://github.com/keepcosmos/status-manager))
 * ununiga([rubygems](https://rubygems.org/gems/ununiga), [source](https://github.com/keepcosmos/ununiga))
   * 은는이가는 한글의 자소를 분리하고 적절한 조사를 찾아주는 역할을 합니다. I18n의 Backend 모듈도 제공합니다.
 * twitter-korean-text-ruby([rubygems](https://rubygems.org/gems/twitter-korean-text-ruby), [source](https://github.com/keepcosmos/twitter-korean-text-ruby))
   * 트위터에서 제공하는 한글 형태소 분석기인 twitter-korean-text(Scala)를 Ruby에서 사용가능하도록 Wrapping 하였습니다.
-  
-  
-  
+
+
+
 * **Contribution**
 	* [rails/rails](http://contributors.rubyonrails.org/contributors/jaehyun-shin/commits)
 	* [rails/spring](https://github.com/rails/spring/pulls?q=is%3Apr+is%3Amerged+author%3Akeepcosmos)
