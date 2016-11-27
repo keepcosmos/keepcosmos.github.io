@@ -33,7 +33,9 @@ image:
 
 
 ## Opensource
-* **Budongsan**([source](https://github.com/keepcosmos/budongsan))
+* **terjira**([source](https://github.com/keepcosmos/terjira))
+  * Jira를 터미널에서 쉽게 사용할 수 있는 interactive jira command line application
+* **budongsan**([source](https://github.com/keepcosmos/budongsan))
   * 국토교통부제공 주택 실거래 관련 dataset 및 함수 제공
 * **readability**([hex](https://hex.pm/packages/readability), [source](https://github.com/keepcosmos/readability))
   * 웹페이지에서 의미있는 아티클 정보를 추출하는 Elixir 패키지
@@ -47,12 +49,8 @@ image:
 
 
 * **Contributions**
-	* ㄴ[rails/rails](http://contributors.rubyonrails.org/contributors/jaehyun-shin/commits)
-	* [rails/spring](https://github.com/rails/spring/pulls?q=is%3Apr+is%3Amerged+author%3Akeepcosmos)
-	* [discourse/discourse](https://github.com/discourse/discourse/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+author%3Akeepcosmos+)
-
-## Personal Project
-<!-- * [와프](https://www.whatisyourproblem.kr) -->
+	* [rails/rails](http://contributors.rubyonrails.org/contributors/jaehyun-shin/commits)
+  * [rails/spring](https://github.com/rails/spring/pulls?q=is%3Apr+is%3Amerged+author%3Akeepcosmos)
 
 ## Education & Certification
 * [The Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WK66NMAX97AL) (Coursera, Johns Hopkins)
