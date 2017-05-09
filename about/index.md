@@ -33,6 +33,8 @@ image:
 
 
 ## Opensource
+* **elasticsearch-analysis-openkoreantext**([source](https://github.com/open-korean-text/elasticsearch-analysis-openkoreantext))
+  * Elasticsearch 한국어 분석 플러그인.
 * **terjira**([source](https://github.com/keepcosmos/terjira))
   * Jira를 터미널에서 쉽게 사용할 수 있는 interactive jira command line application
 * **budongsan**([source](https://github.com/keepcosmos/budongsan))
@@ -47,10 +49,14 @@ image:
 * **twitter-korean-text-ruby**([rubygems](https://rubygems.org/gems/twitter-korean-text-ruby), [source](https://github.com/keepcosmos/twitter-korean-text-ruby))
   * 트위터에서 제공하는 한글 형태소 분석기인 twitter-korean-text(Scala)를 Ruby에서 사용가능하도록 Wrapping 하였습니다.
 
+-----
 
 * **Contributions**
 	* [rails/rails](http://contributors.rubyonrails.org/contributors/jaehyun-shin/commits)
   * [rails/spring](https://github.com/rails/spring/pulls?q=is%3Apr+is%3Amerged+author%3Akeepcosmos)
+
+* **Organization**
+  * [open-korean-text](https://github.com/open-korean-text)
 
 ## Education & Certification
 * [The Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WK66NMAX97AL) (Coursera, Johns Hopkins)
