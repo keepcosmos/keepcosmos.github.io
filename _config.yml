@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Keepcosmos
-locale:           ko_KR
-url:
+title: Keepcosmos
+locale: ko_KR
+url: ''
 
 
 # Jekyll configuration
