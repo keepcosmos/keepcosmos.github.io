@@ -33,7 +33,7 @@ image:
 
 
 ## Opensource
-* **Beanmother**([source]https://github.com/atinfo/awesome-test-automation)
+* **Beanmother**([source](https://github.com/keepcosmos/beanmother))
   * A library for setting up Java Bean as test data.
 * **elasticsearch-analysis-openkoreantext**([source](https://github.com/open-korean-text/elasticsearch-analysis-openkoreantext))
   * Elasticsearch 한국어 분석 플러그인.
