@@ -10,17 +10,11 @@ image:
   creditlink:
 ---
 
-현재 [마이리얼트립](https://www.myrealtrip.com) 개발자겸 이사로 재직중.
-
-스택오버플로에 이제 막 재미붙이는 중  
-<a href="http://stackoverflow.com/users/1306187/jaehyun-shin">
-<img src="http://stackoverflow.com/users/flair/1306187.png" width="208" height="58" alt="profile for Jaehyun Shin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jaehyun Shin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
-
 ## Experience
 
-* [마이리얼트립](https://www.myrealtrip.com), 2013 ~
+* 두나무, 2018 ~
+  - 업비트 거래소 시스템 개발.
+* [마이리얼트립](https://www.myrealtrip.com), 2013 ~ 2018
   - 서버 및 API 개발, 프론트엔드 개발
   - 데이터 분석
 * KTH
@@ -59,6 +53,11 @@ image:
 
 * **Organization**
   * [open-korean-text](https://github.com/open-korean-text)
+
+* **Stackoverflow**
+<a href="http://stackoverflow.com/users/1306187/jaehyun-shin">
+<img src="http://stackoverflow.com/users/flair/1306187.png" width="208" height="58" alt="profile for Jaehyun Shin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jaehyun Shin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
 ## Education & Certification
 * [The Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WK66NMAX97AL) (Coursera, Johns Hopkins)
