@@ -7,6 +7,7 @@ description: "Duck Typing에 대한 생각"
 modified: 2015-03-01
 comments: true
 tags: [Duck typing, Dynamic type, 오리타입, 동적타입]
+share: false
 
 ---
 

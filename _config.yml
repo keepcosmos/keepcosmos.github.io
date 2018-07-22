@@ -13,7 +13,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
 
 kramdown:
@@ -44,7 +44,7 @@ owner:
   bio: |
     저는 ...<a href='/about' style='color: #0288D1'>더보기</a>
   email: keepcosmos@gmail.com
-  disqus-shortname: keepcosmos
+  disqus-shortname: #keepcosmos
   twitter: #username
   facebook: #username
   google:
